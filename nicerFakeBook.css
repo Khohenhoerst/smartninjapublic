@@ -1,0 +1,61 @@
+body {
+background-color:dodgerblue;
+border: 4px solid yellow;
+font-family: arial;
+}
+div {
+background-color:lightblue;
+}
+.h1 {
+text-align: center;
+font-size: 30px;
+color: white;
+}
+.h2 {
+font-family: arial;
+font-size: 15px;
+color: tomato;
+}
+.pers_data {
+margin: 10px;
+padding: 5px;
+font-size: 20px;
+color: black;
+}
+.address {
+margin:20px;
+font-size: 16px;
+color: blue;
+}
+.centered {
+margin: 15px auto;
+width:400px;
+}
+.png1 {
+width: 400px;
+border: 5px;
+}
+.list {
+font-size: 16px;
+background-color:yellow;
+}
+table {
+width:80%;
+border: 1px solid white;
+margin: 20px;
+text-align:center;
+}
+thead {
+color: tomato;
+background-color:lightgrey;
+}
+th{
+padding:15px;
+border: 1px solid white;
+}
+tbody{
+background-color:white;
+}
+td{
+color:mediumseagreen;
+}
