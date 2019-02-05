@@ -1,0 +1,14 @@
+.jumbotron {
+background-color:#9FAD94;
+ }
+.navbar {
+padding: 1rem;
+}
+.nav-link {
+color:#003366;
+background-color:#FFE4E1;
+ }
+.carousel-inner img {
+width: 100%;
+height: 70%;
+}
